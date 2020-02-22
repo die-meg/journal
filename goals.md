@@ -1,4 +1,5 @@
 # Goals
-1. Create a one-page website that is screen reader **accessible**.
-2. Write a script in Python or Bash that moves files from one folder at work to another
-3. Speak to someone who uses [Agile](http://agilemanifesto.org) and take notes. 
+1. Build code so that I can study me irl aka go to a specific date
+2. Learn Python well enough to do language stuff like analysis and text generation
+3. Learn how to download entire websites like reddit
+4. Explore concepts of recursion 
